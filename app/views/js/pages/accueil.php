@@ -1,0 +1,1 @@
+<script src="js/pages/accueil<?= $minify ?>.js"></script>
